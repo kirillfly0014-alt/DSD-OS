@@ -1,4 +1,4 @@
-# DSD v1.0 (Del Set Dos)
+# DSD v0.1 (Del Set Dos)
 Скачать готовый образ - 
  https://github.com/kirillfly0014-alt/DSD-OS/raw/main/dsd_floppy.img
 ![DSD Poster](dsd_poster.jpg)
