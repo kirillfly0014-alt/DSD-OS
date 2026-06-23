@@ -1,6 +1,7 @@
 # DSD v0.1 (Del Set Dos)
 Наши Соцсети:
 VK:https://vk.ru/dsdteamvk
+
 Скачать готовый образ - 
  https://github.com/kirillfly0014-alt/DSD-OS/raw/main/dsd_floppy.img
 ![DSD Poster](dsd_poster.jpg)
