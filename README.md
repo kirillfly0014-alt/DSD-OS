@@ -1,5 +1,6 @@
 # DSD v0.1 (Del Set Dos)
 Наши Соцсети:
+
 VK:https://vk.ru/dsdteamvk
 
 Скачать готовый образ - 
